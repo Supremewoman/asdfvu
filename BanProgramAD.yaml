@@ -453,6 +453,7 @@ payload:
   - DOMAIN-SUFFIX,tongji.home.soufun.com
 
 # Google
+  - DOMAIN-KEYWORD,category-ads-all
   - DOMAIN-SUFFIX,admob.com
   - DOMAIN-SUFFIX,ads.gmodules.com
   - DOMAIN-SUFFIX,ads.google.com
